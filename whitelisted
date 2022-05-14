@@ -1,0 +1,6 @@
+whitelisted = {
+    [1498442661] = true,
+    [921162254] = true
+}
+ 
+return whitelisted
